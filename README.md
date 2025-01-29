@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi👋
+I am Ashiq, an undergraduate physics and computer science major at the University of Maryland College Park. I am currently learning Ocaml and advanced Python. 
+As a researcher of Team Aether, GEMSTONE, and UMD, I am currently working on developing a coding pipeline that constrains different parameters of the early universe. 
 <!--
 **ashiqur0421/ashiqur0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
